@@ -1,6 +1,6 @@
 <meta>
 	<oop>true</oop>
-	<info name = "Calander" author="Hex" type="script"/>
+	<info name = "Calendar" author="Hex" type="script"/>
 	<script src="server.lua" />
-	<script src="calander.lua" type="client" cache="false"/>
+	<script src="calendar.lua" type="client" cache="false"/>
 </meta>
