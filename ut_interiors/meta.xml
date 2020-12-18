@@ -1,5 +1,7 @@
 <meta>
     <oop>true</oop>
     <info name="interiors" author="Hex" version="0.1" type="script" description=""></info>
+	<script type = "shared" src = "interiorlist.lua"></script>
 	<script type = "server" src = "interiors.lua"></script>
+	<script type = "client" src = "interiorc.lua"></script>
 </meta>
